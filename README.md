@@ -6,11 +6,11 @@
 
 FFmpeg 有如下模块：
 
-- libavcodec
-- libavformat
-- libavutil
-- libavdevice
-- libavfilter
-- libswresample
-- libswscale
-- libpostproc
+- [libavcodec](https://github.com/qaz624824554/FFmpeg-modules-translate/tree/master/libavcodec)
+- [libavformat](https://github.com/qaz624824554/FFmpeg-modules-translate/tree/master/libavformat)
+- [libavutil](https://github.com/qaz624824554/FFmpeg-modules-translate/tree/master/libavutil)
+- [libavdevice](https://github.com/qaz624824554/FFmpeg-modules-translate/tree/master/libavdevice)
+- [libavfilter](https://github.com/qaz624824554/FFmpeg-modules-translate/tree/master/libavfilter)
+- [libswresample](https://github.com/qaz624824554/FFmpeg-modules-translate/tree/master/libswresample)
+- [libswscale](https://github.com/qaz624824554/FFmpeg-modules-translate/tree/master/libswscale)
+- [libpostproc](https://github.com/qaz624824554/FFmpeg-modules-translate/tree/master/libpostproc)
